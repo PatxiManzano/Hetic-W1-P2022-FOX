@@ -1,8 +1,6 @@
 
 setTimeout (function(){
-    var s = document.querySelector(".home");
+    var s = document.querySelector(".screen2");
     s.classList.add('hide');
-    
-
-},10000);
-
+},8000);
+document.querySelectorAll
